@@ -12,10 +12,6 @@ Sua missão é criar uma landing page para buscar, listar e detalhar pokémons, 
 
 O layout inteiro é livre, mas a lista deverá conter no mínimo o nome do pokémon e a sua respectiva imagem.
 
-Sobre a busca, ela poderá ser feita de 3 formas: digitando o nome do pokémon, selecionando um ou mais tipos específicos ou listando todos de uma vez (paginação é sempre bem-vinda!).
-
-Seria interessante ordenar nossa lista também e pensamos em pelo menos dois tipos: por número do Pokémon (padrão) ou por nome (ordem alfabética). Fique à vontade para fazer mais alguma.
-
 Mas nossa busca não seria muito útil só com nome e foto de cada Pokémon. Então sugerimos que, ao clicar em um item, abra um modal, com mais detalhes e características dele. Inclusive você pode decidir quais informações seriam mais úteis para nós.
 
 Consigo fazer?
