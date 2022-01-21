@@ -25,8 +25,8 @@ Consumo de APIs Rest
 Regras
 Para o desafio ficar mais interessante, decidimos criar umas regras básicas:
 
-No layout, você utilizar bootstrap é essencial.
-Na parte de JS, deve utilizar algum framework (ex: VueJS ou Angular...tente não usar jQuery), lembrando que Angular é preferêncial, pois utilizamos aqui na Autobem.
+No layout, você utilizar bootstrap e angular.
+
 Por onde começo?
 Primeiramente, você pode fazer um fork desse repositório aqui, para sua conta do Github, depois disso crie uma branch nova com o seu nome (ex: nome_sobrenome), para podermos indentificá-lo.
 
